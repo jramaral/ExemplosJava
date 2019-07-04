@@ -10,7 +10,7 @@ public class DiasDeVidas {
 		System.out.println("Digite sua idade: ");
 		int idade = teclado.nextInt();
 		int totalDias = idade * 365;
-		System.out.println("Você tem "+ totalDias + " dias de vida");
+		System.out.println("Você tem "+ totalDias + " dias de vida.");
 		
 	}
 	
